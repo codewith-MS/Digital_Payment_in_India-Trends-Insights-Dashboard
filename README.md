@@ -24,3 +24,11 @@ Power BI analysis of India's digital payment trends (2020-2024) with DAX-driven 
 ## Data Source
 RBI (Reserve Bank of India) and NPCI digital payment statistics (2020-2024)
 
+
+<img width="1376" height="787" alt="image" src="https://github.com/user-attachments/assets/0819d186-1631-48d8-87a9-4d22da8591bc" />
+
+
+
+
+<img width="1370" height="771" alt="image" src="https://github.com/user-attachments/assets/48ee91b4-301d-40bb-a9cf-3f689cad13e2" />
+
