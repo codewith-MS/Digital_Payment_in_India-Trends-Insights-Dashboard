@@ -10,7 +10,7 @@ Power BI analysis of India's digital payment trends (2020-2024) with DAX-driven 
 
 ## Technical Skills
 - **DAX Measures:** YoY growth, CAGR, market share calculations
-- **Functions:** CALCULATE, DIVIDE, SAMEPERIODLASTYEAR, DATEADD, filter context management
+- **Functions:** CALCULATE, DIVIDE, DATEADD, filter context management
 - **Visualizations:** Multi-page dashboard with trend analysis, comparative charts, quarterly patterns
 - **Data Modeling:** Time intelligence, relationship optimization
 
